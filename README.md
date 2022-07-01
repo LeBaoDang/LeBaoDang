@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @LeBaoDang
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning Java and Database,...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 you can contact me via facebook
 
 <!---
 LeBaoDang/LeBaoDang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

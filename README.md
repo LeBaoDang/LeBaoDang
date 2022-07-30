@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeBaoDang
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning Java,...
+- 🌱 I’m currently learning Java
 - 📫 You can contact me via facebook
 
 <!---
